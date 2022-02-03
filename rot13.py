@@ -1,4 +1,5 @@
-cipher="cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_MAZyqFQj}"
+#ctf edition 
+cipher="cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_MAZyqFQj}" # cipher or plane text goes here
 abc="abcdefghijklmnopqrstuvwxyz"
 ABC="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 flagOutput=" "
